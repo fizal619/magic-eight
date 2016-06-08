@@ -1,1 +1,4 @@
 # magic-eight
+[]()
+
+![]() <---- image
